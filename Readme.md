@@ -1,2 +1,3 @@
 Aprendendo a usar o GIT!
-altera��o*
+alteração*
+alteração 2 pela web
